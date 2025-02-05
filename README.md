@@ -1,5 +1,5 @@
 # PWC-Virtual-internship
-PWC-Virtual-internship - Power BI
+Forage Data Analytics project Powerbi Dashboard
 
 Task 1 : Call Centre Trends
 
